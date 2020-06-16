@@ -61,8 +61,8 @@ yarn test
 
 ## ⛏️ Ferramentas <a name = "built_using"></a>
 
-- [Node](https://nodejs.org/en/) - JavaScript Runtime Environment.
-- [Express](https://expressjs.com/pt-br/) - Framework Web.
+- [Node](https://nodejs.org/en/) - JavaScript runtime environment.
+- [Express](https://expressjs.com/pt-br/) - Framework web.
 - [Jest](https://jestjs.io/) - JavaScript testing framework.
 
 ## ✍️ Autores <a name = "authors"></a>
