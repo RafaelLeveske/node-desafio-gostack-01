@@ -63,7 +63,7 @@ yarn test
 
 - [Node](https://nodejs.org/en/) - JavaScript Runtime Environment.
 - [Express](https://expressjs.com/pt-br/) - Framework Web.
-- [Jest}(https://jestjs.io/) - JavaScript testing framework.
+- [Jest](https://jestjs.io/) - JavaScript testing framework.
 
 ## ✍️ Autores <a name = "authors"></a>
 
